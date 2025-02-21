@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js route handlers: the lack of input validation. The `bug.js` file shows a vulnerable route that doesn't check if the user ID is a number.  This can lead to errors or unexpected behavior. The `bugSolution.js` file provides a corrected version with input validation.
